@@ -1,0 +1,19 @@
+{
+  "name": "twit-classification-tree",
+  "version": "0.0.0",
+  "description": "Gathering twit samples tree for machine learning classification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shyr1punk/twit-classification-tree"
+  },
+  "author": "shyr1punk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyr1punk/twit-classification-tree/issues"
+  },
+  "homepage": "https://github.com/shyr1punk/twit-classification-tree"
+}
