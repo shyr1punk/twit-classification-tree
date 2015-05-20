@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shyr1punk/twit-classification-tree/issues"
   },
-  "homepage": "https://github.com/shyr1punk/twit-classification-tree"
+  "homepage": "https://github.com/shyr1punk/twit-classification-tree",
+  "dependencies": {
+    "twit": "^1.1.20"
+  }
 }
